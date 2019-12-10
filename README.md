@@ -1,4 +1,5 @@
 # CODE Platformer
+# DESIGN BY DAVID CABALLERO
 
 ![Screenshot](https://docs.google.com/uc?id=1WIytsk3VCZLLf_YjEMzqwUChsTP1ThE7)
 ![Screenshot](https://docs.google.com/uc?id=1msGwWIlsMfhQKyv-6eg49_LZ-cS1xMpX)
